@@ -15,3 +15,8 @@ h1#site-title {
 body {
     font-family: Verdana;
 }
+
+  p {
+    background-color: red;
+    color: white;
+}
