@@ -12,3 +12,6 @@ h1#site-title {
   h1#article-title {
     font-size: 60px;
   }
+body {
+    font-family: Verdana;
+}
