@@ -12,3 +12,8 @@ h1#site-title {
   h1#article-title {
     font-size: 48px;
   }
+@media screen and (max-width: 600px) {
+  body {
+    background-color: magenta;
+  }
+}
