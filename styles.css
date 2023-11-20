@@ -17,3 +17,11 @@ h1#article-title {
       background-color: pink;
     }
 }
+body.dark-mode {
+  background: #010101;
+  color: #ffffff;
+}
+
+body.dark-mode button {
+  background-color: #ffffff;
+}
