@@ -34,7 +34,8 @@ body.dark-mode button {
   opacity: 1;
   transition: opacity .2s ease;
 }
-
+body {
+  background-color: #DBF9FC;}
 
 #message.dismissed {
   opacity: 0;
